@@ -7,4 +7,4 @@ from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
 
 # Configure our Database
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:Jdfy&^13@10.110.174.80/room_management'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:PWD@123@127.0.0.1room_management'
